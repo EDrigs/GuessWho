@@ -1,4 +1,4 @@
-package org.example.groupproject;
+package org.example.guesswhoproject;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.*;

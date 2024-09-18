@@ -1,4 +1,4 @@
-package org.example.groupproject;
+package org.example.guesswhoproject;
 
 
 import java.util.ArrayList;

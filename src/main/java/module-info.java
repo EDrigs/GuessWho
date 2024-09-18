@@ -1,9 +1,9 @@
-module org.example.groupproject {
+module org.example.guesswhoproject {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.graphics;
 
 
-    opens org.example.groupproject to javafx.fxml;
-    exports org.example.groupproject;
+    opens org.example.guesswhoproject to javafx.fxml;
+    exports org.example.guesswhoproject;
 }

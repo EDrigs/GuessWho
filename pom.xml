@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>GroupProject</artifactId>
+    <artifactId>GuessWho</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>331GroupProject</name>
+    <name>GuessWhoProject</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -70,7 +70,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>org.example.groupproject/org.example.groupproject.HelloApplication</mainClass>
+                            <mainClass>org.example.guesswhoproject.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
